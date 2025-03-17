@@ -8,7 +8,7 @@
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
 # https://www.gnu.org/licenses/gpl-3.0.en.html
 # https://eupl.eu/
-# Program/Design Name:        SCMakeyBot.py
+# Program/Design Name:        SCMakeyBot.py <-- or a test/template sub version
 # Description:    This is a program to control an LED (PWM)
 # 
 # program description:
