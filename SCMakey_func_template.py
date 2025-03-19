@@ -2,7 +2,7 @@
 # ============================================================================
 # Source: STEAM Clown - www.steamclown.org
 # GitHub: https://github.com/jimTheSTEAMClown/Python_SCMakeyBot
-# GitHub: https://raw.githubusercontent.com/jimTheSTEAMClown/Python_SCMakeyBot/refs/heads/main/SCMakeyBot_RGB_Eyes_lab1.py
+# GitHub: https://raw.githubusercontent.com/jimTheSTEAMClown/Python_SCMakeyBot/refs/heads/main/SCMakey_func_template.py
 # Hacker: Jim Burnham - STEAM Clown, Engineer, Teacher, Maker, Propmaster & Adrenologist  
 # This example code is licensed under the CC BY-NC-SA 4.0, GNU GPL and EUPL
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
